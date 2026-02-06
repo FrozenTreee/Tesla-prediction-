@@ -4,4 +4,4 @@ numpy
 requests
 plotly
 python-dotenv
-opena
+openai
